@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LanguageChanger</string>
+    <string name="french_text">Bonjour</string>
+    <string name="spanish_text">Hola</string>
+    <string name="chinese_text">你好</string>
+    <string name="english_text">Hello</string>
+    <string name="italian_text">Ciao</string>
+    <!-- Add more string resources for other languages here -->
+</resources>
